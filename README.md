@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005C53&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Eduardo+Barbosa;Tenho+24+anos;Sou+de+Arapiraca+Al,+Brasil;Graduando+em;Sistemas+de+Informação;No+IFAL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=080A74&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Eduardo+Barbosa;Tenho+24+anos;Sou+de+Arapiraca+Al,+Brasil;Graduando+em;Sistemas+de+Informação;No+IFAL!+:%29)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/eduardobza">
