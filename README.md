@@ -4,12 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=080A74&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Eduardo+Barbosa;Tenho+24+anos;Sou+de+Arapiraca+Al,+Brasil;Graduando+em;Sistemas+de+Informação;No+IFAL!+:%29)](https://git.io/typing-svg)
 
- <div>
-   <a href="https://github.com/eduardobza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobza&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
