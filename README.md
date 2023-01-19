@@ -1,9 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😎
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=080A74&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Eduardo+Barbosa;Tenho+24+anos;Sou+de+Arapiraca+Al,+Brasil;Graduando+em;Sistemas+de+Informação;No+IFAL!+:%29)](https://git.io/typing-svg)
-
+<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Eduardo! </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
