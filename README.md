@@ -8,7 +8,7 @@
 </p>
 
 :computer: Front-end Developer <br>
-:house: Brazilian, Based in Arapiraca, AL <br>
+:house: Brazilian, Based in Goiânia, GO <br>
 :sparkles: I'm currently learning React Native <br>
 
 ### ⚒️ Tech Stack
